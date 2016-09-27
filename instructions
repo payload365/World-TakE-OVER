@@ -1,0 +1,9 @@
+sudo apt-get update
+leafpad /etc/apt/sources.list
+#(copy & paste repositorys))
+sudo apt-get install alacarte
+                     service tor
+                     angryip ((angryipscanner.org))
+                     compact wireless (download for wlan connection)
+ suod apt-get dist-upgrade
+ 
